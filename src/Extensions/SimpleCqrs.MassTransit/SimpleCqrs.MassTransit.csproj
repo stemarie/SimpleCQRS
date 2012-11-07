@@ -46,13 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Commanding\CommandMessage.cs" />
-    <Compile Include="Commanding\CommandMessageHandler.cs" />
-    <Compile Include="Commanding\CommandWithReturnValueMessage.cs" />
-    <Compile Include="Commanding\CommandWithReturnValueMessageHandler.cs" />
-    <Compile Include="Commanding\CommandReturnValueMessage.cs" />
-    <Compile Include="ConfigSimpleCqrs.cs" />
-    <Compile Include="ConfigureSimpleCqrs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
